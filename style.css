@@ -1,0 +1,22 @@
+body {
+  background-image: url(001.jpg);
+  background-size：contain;
+  background-repeat: no-repeat;  
+  padding: 50px;
+  text-align: right;
+  font: 30px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #1144ed;
+  text-shadow: 
+  -1px -1px 0 #d9f7fa,
+  -1px 1px 0 #d9f7fa,
+  1px 1px 0 #d9f7fa,
+  1px -1px 0 #d9f7fa;
+}
+#sidebar_right{
+  width:500px;
+  height:400px;
+  text-align:left;
+  line-height:30px;
+  float:right;
+}
+
